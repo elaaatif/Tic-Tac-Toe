@@ -56,10 +56,16 @@ Upon running the game, a window will appear with a grid representing the Tic Tac
 - **User Experience**: Enhance user prompts and messages for a better gaming experience.
 
 # Tic-Tac-Toe
-_* USER WINS :_
+**Here is an example of the user interface and the different states of the game :** 
+1. _* USER WINS :_
+
 ![image](https://github.com/elaaatif/Tic-Tac-Toe/assets/122917261/e6fa9b89-2543-49b7-8e16-354edfe4e346)
-_* USER LOSES :_ 
+
+2. _* USER LOSES :_ 
+
 ![image](https://github.com/elaaatif/Tic-Tac-Toe/assets/122917261/dfa528b3-7286-45bc-bc74-92ba20a16707)
-_* A TIE :_
+
+3. _* A TIE :_
+
 ![image](https://github.com/elaaatif/Tic-Tac-Toe/assets/122917261/db48256e-9167-4348-928d-5c0476bff62e)
 
