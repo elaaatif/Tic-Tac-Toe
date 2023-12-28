@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This is a simple implementation of the classic Tic Tac Toe game using the Tkinter library in Python. The game allows the player to compete against a computer opponent that makes random moves.
+This is a simple implementation of the classic Tic Tac Toe game using the Tkinter library in Python and the **MinMax Algorithm**. The game allows the player to compete against a computer opponent that makes random moves. 
 
 ## Prerequisites
 
@@ -44,12 +44,11 @@ Upon running the game, a window will appear with a grid representing the Tic Tac
 
 ## Code Structure
 
-- `tic_tac_toe.py`: Main script containing the game logic and Tkinter GUI setup.
+- `XOXO.py`: Main script containing the game logic and Tkinter GUI setup.
 - `README.md`: Documentation file providing instructions and information about the project.
 
 ## Enhancements
 
-- **AI Improvement**: Consider implementing a more strategic AI using algorithms like minimax.
 - **Code Structure**: Organize the code into functions for better readability and maintainability.
 - **GUI Enhancement**: Improve the appearance of the game board and add features like highlighting the winning combination.
 - **Error Handling**: Add appropriate error handling for unexpected inputs or actions.
